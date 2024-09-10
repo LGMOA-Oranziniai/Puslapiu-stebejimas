@@ -26,67 +26,67 @@ status-website:
 
 i18n:
   # status-page
-  activeIncidents: Aktyvūs incidentai
-  allSystemsOperational: Visos sistemos veikia
-  incidentReport: Incidento #$NUMBER ataskaita →
-  activeIncidentSummary: Atidaryta $DATE su $POSTS pranešimais
-  incidentTitle: Incidento $NUMBER detalės
-  incidentDetails: Incidento detalės
-  incidentFixed: Išspręsta
-  incidentOngoing: Vyksta
-  incidentOpenedAt: Atidaryta
-  incidentClosedAt: Uždaryta
-  incidentViewOnGitHub: Peržiūrėti ir užsiprenumeruoti GitHub
-  incidentCommentSummary: Paskelbta $DATE, autorius $AUTHOR
-  incidentBack: ← Atgal į visus incidentus
-  pastIncidents: Ankstesni incidentai
-  pastIncidentsResolved: Išspręsta per $MINUTES minutes su $POSTS pranešimais
-  liveStatus: Gyva būsena
-  overallUptime: Bendras veikimo laikas: $UPTIME
-  overallUptimeTitle: Bendras veikimo laikas
-  averageResponseTime: Vidutinis atsako laikas: $TIMEms
-  averageResponseTimeTitle: Vidutinis atsakas
-  sevelDayResponseTime: 7 dienų atsako laikas
-  responseTimeMs: Atsako laikas (ms)
-  up: Veikia
-  down: Neveikia
-  degraded: Sumažėjęs našumas
-  ms: ms
-  loading: Kraunasi
-  navGitHub: GitHub
-  footer: Šis puslapis yra [atviro kodo]($REPO), valdomas [Upptime](https://upptime.js.org)
-  rateLimitExceededTitle: Viršytas užklausų limitas
-  rateLimitExceededIntro: Viršijote leidžiamų užklausų per valandą skaičių, todėl turėsite palaukti, kol vėl galėsite pasiekti šią svetainę. Arba galite pridėti GitHub asmeninį prieigos raktą, kad galėtumėte toliau naudotis svetaine.
-  rateLimitExceededWhatDoesErrorMean: Ką reiškia ši klaida
-  rateLimitExceededErrorMeaning: Ši svetainė naudoja GitHub API, kad gautų realaus laiko duomenis apie mūsų svetainių būklę. Pagal numatytuosius nustatymus, GitHub leidžia kiekvienam IP adresui atlikti 60 užklausų per valandą, kurias jūs jau sunaudojote.
-  rateLimitExceededErrorHowCanFix: Kaip tai ištaisyti
-  rateLimitExceededErrorFix: Galite palaukti valandą, kol jūsų IP adreso limitas bus atstatytas. Arba galite pridėti savo GitHub asmeninį prieigos raktą, kuris suteikia papildomus 5 000 užklausų per valandą.
-  rateLimitExceededGeneratePAT: Sužinokite, kaip sugeneruoti asmeninį prieigos raktą
-  rateLimitExceededHasSet: Jūs turite nustatytą asmeninį prieigos raktą.
-  rateLimitExceededRemoveToken: Pašalinti raktą
-  rateLimitExceededGitHubPAT: GitHub asmeninis prieigos raktas
-  rateLimitExceededCopyPastePAT: Nukopijuokite ir įklijuokite savo raktą
-  rateLimitExceededSaveToken: Išsaugoti raktą
-  errorTitle: Įvyko klaida
-  errorIntro: Įvyko klaida bandant gauti naujausią būsenos informaciją.
-  errorText: Galite pabandyti dar kartą po kelių akimirkų.
-  errorHome: Eiti į pagrindinį puslapį
-  pastScheduledMaintenance: Ankstesnė planuota priežiūra
-  scheduledMaintenance: Planuota priežiūra
-  scheduledMaintenanceSummaryStarted: Pradėta $DATE trukmė $DURATION minučių
-  scheduledMaintenanceSummaryStarts: Prasidės $DATE trukmė $DURATION minučių
-  startedAt: Prasidėjo
-  startsAt: Prasidės
-  duration: Trukmė
-  durationMin: $DURATION minučių
-  incidentCompleted: Užbaigta
-  incidentScheduled: Planuojama
-  duration24H: 24 val.
-  duration7D: 7 d.
-  duration30D: 30 d.
-  duration1Y: 1 m.
-  durationAll: visa
-  locale: lt-LT
+  activeIncidents: "Aktyvūs incidentai"
+  allSystemsOperational: "Visos sistemos veikia"
+  incidentReport: "Incidento #$NUMBER ataskaita →"
+  activeIncidentSummary: "Atidaryta $DATE su $POSTS pranešimais"
+  incidentTitle: "Incidento $NUMBER detalės"
+  incidentDetails: "Incidento detalės"
+  incidentFixed: "Išspręsta"
+  incidentOngoing: "Vyksta"
+  incidentOpenedAt: "Atidaryta"
+  incidentClosedAt: "Uždaryta"
+  incidentViewOnGitHub: "Peržiūrėti ir užsiprenumeruoti GitHub"
+  incidentCommentSummary: "Paskelbta $DATE, autorius $AUTHOR"
+  incidentBack: "← Atgal į visus incidentus"
+  pastIncidents: "Ankstesni incidentai"
+  pastIncidentsResolved: "Išspręsta per $MINUTES minutes su $POSTS pranešimais"
+  liveStatus: "Gyva būsena"
+  overallUptime: "Bendras veikimo laikas: $UPTIME"
+  overallUptimeTitle: "Bendras veikimo laikas"
+  averageResponseTime: "Vidutinis atsako laikas: $TIMEms"
+  averageResponseTimeTitle: "Vidutinis atsakas"
+  sevelDayResponseTime: "7 dienų atsako laikas"
+  responseTimeMs: "Atsako laikas (ms)"
+  up: "Veikia"
+  down: "Neveikia"
+  degraded: "Sumažėjęs našumas"
+  ms: "ms"
+  loading: "Kraunasi"
+  navGitHub: "GitHub"
+  footer: "Šis puslapis yra [atviro kodo]($REPO), valdomas [Upptime](https://upptime.js.org)"
+  rateLimitExceededTitle: "Viršytas užklausų limitas"
+  rateLimitExceededIntro: "Viršijote leidžiamų užklausų per valandą skaičių, todėl turėsite palaukti, kol vėl galėsite pasiekti šią svetainę. Arba galite pridėti GitHub asmeninį prieigos raktą, kad galėtumėte toliau naudotis svetaine."
+  rateLimitExceededWhatDoesErrorMean: "Ką reiškia ši klaida?"
+  rateLimitExceededErrorMeaning: "Ši svetainė naudoja GitHub API, kad gautų realaus laiko duomenis apie mūsų svetainių būklę. Pagal numatytuosius nustatymus, GitHub leidžia kiekvienam IP adresui atlikti 60 užklausų per valandą, kurias jūs jau sunaudojote."
+  rateLimitExceededErrorHowCanFix: "Kaip tai ištaisyti?"
+  rateLimitExceededErrorFix: "Galite palaukti valandą, kol jūsų IP adreso limitas bus atstatytas. Arba galite pridėti savo GitHub asmeninį prieigos raktą, kuris suteikia papildomus 5 000 užklausų per valandą."
+  rateLimitExceededGeneratePAT: "Sužinokite, kaip sugeneruoti asmeninį prieigos raktą"
+  rateLimitExceededHasSet: "Jūs turite nustatytą asmeninį prieigos raktą."
+  rateLimitExceededRemoveToken: "Pašalinti raktą"
+  rateLimitExceededGitHubPAT: "GitHub asmeninis prieigos raktas"
+  rateLimitExceededCopyPastePAT: "Nukopijuokite ir įklijuokite savo raktą"
+  rateLimitExceededSaveToken: "Išsaugoti raktą"
+  errorTitle: "Įvyko klaida"
+  errorIntro: "Bandant gauti naujausią būsenos informaciją įvyko klaida."
+  errorText: "Galite pabandyti dar kartą po kelių akimirkų."
+  errorHome: "Eiti į pagrindinį puslapį"
+  pastScheduledMaintenance: "Ankstesnė planuota priežiūra"
+  scheduledMaintenance: "Planuota priežiūra"
+  scheduledMaintenanceSummaryStarted: "Pradėta $DATE trukmė $DURATION minučių"
+  scheduledMaintenanceSummaryStarts: "Prasidės $DATE trukmė $DURATION minučių"
+  startedAt: "Prasidėjo"
+  startsAt: "Prasidės"
+  duration: "Trukmė"
+  durationMin: "$DURATION minučių"
+  incidentCompleted: "Užbaigta"
+  incidentScheduled: "Planuojama"
+  duration24H: "24 val."
+  duration7D: "7 d."
+  duration30D: "30 d."
+  duration1Y: "1 m."
+  durationAll: "visa"
+  locale: "lt-LT"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
