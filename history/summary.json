@@ -4,19 +4,19 @@
     "url": "https://olimpiados.lt",
     "icon": "https://icons.duckduckgo.com/ip3/olimpiados.lt.ico",
     "slug": "olimpiados-lt",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1029,
-    "timeDay": 821,
-    "timeWeek": 1129,
-    "timeMonth": 1091,
-    "timeYear": 1029,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 1028,
+    "timeDay": 820,
+    "timeWeek": 1090,
+    "timeMonth": 1082,
+    "timeYear": 1028,
     "dailyMinutesDown": {
-      "2025-02-03": 0
+      "2025-02-03": 20
     }
   }
 ]
