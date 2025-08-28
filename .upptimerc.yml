@@ -8,6 +8,11 @@ sites:
     assignees:
       - Oranziniai
       - Zviedrys
+  - name: LitMO puslapis
+    url: https://litmo.olimpiados.lt
+    assignees:
+      - Oranziniai
+      - Zviedrys
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
