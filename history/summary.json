@@ -24,19 +24,19 @@
     "url": "https://litmo.olimpiados.lt",
     "icon": "https://icons.duckduckgo.com/ip3/litmo.olimpiados.lt.ico",
     "slug": "lit-mo-puslapis",
-    "status": "down",
-    "uptime": "1.69%",
-    "uptimeDay": "1.69%",
-    "uptimeWeek": "1.69%",
-    "uptimeMonth": "1.69%",
-    "uptimeYear": "1.69%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.06%",
+    "uptimeDay": "1.06%",
+    "uptimeWeek": "1.06%",
+    "uptimeMonth": "1.06%",
+    "uptimeYear": "1.06%",
+    "time": 364,
+    "timeDay": 364,
+    "timeWeek": 364,
+    "timeMonth": 364,
+    "timeYear": 364,
     "dailyMinutesDown": {
-      "2025-08-28": 0
+      "2025-08-28": 6
     }
   }
 ]
