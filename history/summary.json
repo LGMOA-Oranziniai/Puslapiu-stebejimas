@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1045,
-    "timeDay": 1053,
-    "timeWeek": 1019,
-    "timeMonth": 973,
-    "timeYear": 1045,
+    "time": 1044,
+    "timeDay": 912,
+    "timeWeek": 999,
+    "timeMonth": 966,
+    "timeYear": 1044,
     "dailyMinutesDown": {
       "2025-02-03": 20
     }
@@ -25,18 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/litmo.olimpiados.lt.ico",
     "slug": "lit-mo-puslapis",
     "status": "up",
-    "uptime": "1.06%",
-    "uptimeDay": "1.06%",
-    "uptimeWeek": "1.06%",
-    "uptimeMonth": "1.06%",
-    "uptimeYear": "1.06%",
-    "time": 364,
-    "timeDay": 364,
-    "timeWeek": 364,
-    "timeMonth": 364,
-    "timeYear": 364,
-    "dailyMinutesDown": {
-      "2025-08-28": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 374,
+    "timeDay": 374,
+    "timeWeek": 374,
+    "timeMonth": 374,
+    "timeYear": 374,
+    "dailyMinutesDown": {}
   }
 ]
