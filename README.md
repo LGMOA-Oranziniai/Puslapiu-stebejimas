@@ -21,10 +21,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://LGMOA-Oranziniai.github.io/Olimpiados.lt-monitor)
+[**Aplankykite mūsų stebėjimo puslapį →**](https://status.olimpiados.lt)
 
-## 📄 License
+## 📄 Licenzija
 
-- Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com), supported by [Pabio](https://pabio.com)
-- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+- Sukurta naudojant: [Upptime](https://github.com/upptime/upptime)
+- Kodas: [MIT](./LICENSE) © [Anand Chowdhary](https://anandchowdhary.com)
+- Duomenys kataloge `./history`: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
