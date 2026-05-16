@@ -4,9 +4,9 @@
     "url": "https://olimpiados.lt",
     "icon": "https://icons.duckduckgo.com/ip3/olimpiados.lt.ico",
     "slug": "olimpiados-lt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
@@ -16,6 +16,7 @@
     "timeMonth": 1454,
     "timeYear": 1084,
     "dailyMinutesDown": {
+      "2026-05-16": 0,
       "2026-01-28": 673,
       "2026-01-27": 315,
       "2025-10-15": 38
